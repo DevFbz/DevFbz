@@ -14,11 +14,11 @@
   <img align="center" alt="DevFbz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="DevFbz-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
-<!--
-**DevFbz/DevFbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<picture align="center">
+   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg">
 </picture>
+<!--
+**DevFbz/DevFbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
