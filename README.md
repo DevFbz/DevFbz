@@ -1,8 +1,9 @@
 ## Olá eu sou Breno Fabrizio👋
 
 <div>
- <img alt=""DevFbz Background src="./img/meybackground.jpg"  />
+ <img alt="DevFbz Background" src="./img/meybackground.jpg"  />
 </div>
+
  <div>
   <a href="https://github.com/DevFbz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevFbz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
